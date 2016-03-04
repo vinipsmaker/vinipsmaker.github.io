@@ -50,11 +50,11 @@ Pay me a beer: `113E7FwHac994kKrVhHAmaJCyPLh86aoPb`
   - [Brazilian portuguese](https://twitter.com/vinipsmaker).
 - [identi.ca](http://identi.ca/vinipsmaker2).
 - [last.fm](http://www.last.fm/pt/user/vinipsmaker).
-- [libre.fm](https://alpha.libre.fm/user/vinipsmaker).
-- [jamendo](1http://www.jamendo.com/br/user/vinipsmaker/).
+- [libre.fm](http://alpha.libre.fm/user/vinipsmaker).
+- [jamendo](https://jamendo.com/user/vinipsmaker).
 - [Trakt.tv](https://trakt.tv/users/vinipsmaker).
 - [wikipedia-pt](https://pt.wikipedia.org/wiki/Usu%C3%A1rio:Vinipsmaker).
-- [Coursera](https://www.coursera.org/user/i/b55db2fdbbe963b24ceabbb081b8f089).
+- [Coursera](https://www.coursera.org/user/i/fb5e88290b34aa56e94594633b078092).
 - [Khan Academy](https://www.khanacademy.org/profile/vinipsmaker/).
 - [Asciinema](https://asciinema.org/~vinipsmaker).
 - [github](https://github.com/vinipsmaker).
@@ -67,16 +67,16 @@ Pay me a beer: `113E7FwHac994kKrVhHAmaJCyPLh86aoPb`
 - [Inkscape](https://inkscape.org/pt/~vinipsmaker).
 - [deviantart](https://vinipsmaker.deviantart.com/).
 - [mediafire](https://www.mediafire.com/vinipsmaker).
-- [vivaolinux](http://www.vivaolinux.com.br/~vinipsmaker).
+- [vivaolinux](https://www.vivaolinux.com.br/~vinipsmaker).
 - [reddit](https://www.reddit.com/user/vinipsmaker).
 - [StackExchange](https://stackexchange.com/users/473802/vinipsmaker).
 - [64 macacos](https://64macacos.wordpress.com/).
 - [linuxcounter](https://www.linuxcounter.net/user/481186).
-- [disqus](https://disqus.com/by/google-af5ecb0a0194dc031a80074bbf9888b7/).
+- [disqus](https://disqus.com/by/vinipsmaker/).
 - [ArchLinux's AUR](https://aur.archlinux.org/account/vinipsmaker).
 - [OpenPandora/Pyra's forums](https://pyra-handheld.com/boards/members/vinipsmaker.62279/).
 - [Steam](https://steamcommunity.com/id/vinipsmaker/).
-- [Indiegogo](https://www.indiegogo.com/vinipsmaker).
+- [Indiegogo](https://www.indiegogo.com/individuals/4324656).
 - [kickstarter.com](https://www.kickstarter.com/profile/vinipsmaker).
 - [Portal Escritores](http://www.escritoresalagoanos.com.br/vinipsmaker).
 - [Knight News Challenge](https://www.newschallenge.org/profiles/vinipsmaker).
