@@ -19,6 +19,7 @@ My PGP key:
 - <http://pgp.mit.edu:11371/pks/lookup?op=vindex&search=0x4AA9A15A35314E6B>
 - <https://keyserver.pgp.com/vkd/DownloadKey.event?keyid=0x4AA9A15A35314E6B>
 - <http://savannah.nongnu.org/people/viewgpg.php?user_id=100393>
+- <http://keyserver.ubuntu.com:11371/pks/lookup?fingerprint=on&op=index&search=0x38BF6E03FEC7631C6DC98EB24AA9A15A35314E6B>
 
 If you want my [OTR](https://en.wikipedia.org/wiki/Off-the-Record_Messaging) key
 fingerprints, just ask by email and I'll send a signed copy to you.
