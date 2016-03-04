@@ -1,3 +1,3 @@
 # Vinipsmaker
 
-[Página principal](index.md)
+[Homepage](index.md)
