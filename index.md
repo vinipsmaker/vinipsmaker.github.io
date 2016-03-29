@@ -26,7 +26,8 @@ fingerprints, just ask by email and I'll send a signed copy to you.
 
 ### Online
 
-IRC's registered nickname on [Freenode](http://freenode.net/): `vinipsmaker`
+- IRC's registered nickname on [Freenode](http://freenode.net/): `vinipsmaker`
+- Tox and XMPP: Ask me by email.
 
 ### Email
 
