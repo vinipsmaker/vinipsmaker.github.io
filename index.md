@@ -60,6 +60,7 @@ Pay me a beer: `113E7FwHac994kKrVhHAmaJCyPLh86aoPb`
 - [Khan Academy](https://www.khanacademy.org/profile/vinipsmaker/).
 - [Asciinema](https://asciinema.org/~vinipsmaker).
 - [github](https://github.com/vinipsmaker).
+- [gitlab](https://gitlab.com/u/vinipsmaker).
 - [launchpad](https://launchpad.net/~vinipsmaker).
 - [SourceForge.net](http://sourceforge.net/users/vinipsmaker).
 - [Google Code](https://code.google.com/u/118295250366112843114/).
