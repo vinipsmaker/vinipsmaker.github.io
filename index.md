@@ -81,5 +81,9 @@ Pay me a beer: `113E7FwHac994kKrVhHAmaJCyPLh86aoPb`
 - [Steam](https://steamcommunity.com/id/vinipsmaker/).
 - [Indiegogo](https://www.indiegogo.com/individuals/4324656).
 - [kickstarter.com](https://www.kickstarter.com/profile/vinipsmaker).
-- [Portal Escritores](http://www.escritoresalagoanos.com.br/vinipsmaker).
+- Books/livros
+  - [ReadRate](https://readrate.com/eng/users/136576).
+  - [Goodreads](https://goodreads.com/vinipsmaker).
+  - [Skoob](https://www.skoob.com.br/perfil/vinipsmaker).
+  - [Portal Escritores](http://www.escritoresalagoanos.com.br/vinipsmaker).
 - [Knight News Challenge](https://www.newschallenge.org/profiles/vinipsmaker).
